@@ -1,4 +1,4 @@
 # himanshuKanojiya-
 this is my first Git Repository
-
-AUthor - Himanshu kanojiya
+<br>
+Author - Himanshu kanojiya
